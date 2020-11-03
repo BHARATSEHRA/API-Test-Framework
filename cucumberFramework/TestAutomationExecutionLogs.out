@@ -1,0 +1,60 @@
+2020-11-03 20:11:477 INFO  LoginLogoutPage:184 - Sign In button in the menu bar
+2020-11-03 20:11:634 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:231 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:258 INFO  LoginLogoutPage:143 - Field to enter User Name
+2020-11-03 20:11:337 INFO  LoginLogoutPage:157 - Field to enter Password
+2020-11-03 20:11:440 INFO  LoginLogoutPage:170 - Button to login into the app
+2020-11-03 20:11:571 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:621 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:622 INFO  LoginLogoutPage:198 - Within Shopping Cart
+2020-11-03 20:11:754 INFO  LoginLogoutPage:204 - Sign In button in the menu bar0
+2020-11-03 20:11:770 INFO  LoginLogoutPage:213 - Cleared Existing Products if exist any
+2020-11-03 20:11:706 INFO  LoginLogoutPage:228 - Within Home Page to add Sony Vaio Laptop into the cart
+2020-11-03 20:11:741 INFO  LoginLogoutPage:230 - Laptop Count :6
+2020-11-03 20:11:788 INFO  LoginLogoutPage:234 - Product NameSony vaio i5
+$790
+Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight.
+2020-11-03 20:11:134 INFO  LoginLogoutPage:241 - Within the Sony Vaio laptop detail page
+2020-11-03 20:11:199 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:251 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:375 INFO  LoginLogoutPage:252 - Sony Vaio laptop added into the cart
+2020-11-03 20:11:363 INFO  LoginLogoutPage:281 - Laptop Count :6
+2020-11-03 20:11:415 INFO  LoginLogoutPage:285 - Product NameSony vaio i5
+$790
+Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight.
+2020-11-03 20:11:457 INFO  LoginLogoutPage:285 - Product NameSony vaio i7
+$790
+REVIEW Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight, higher-resolution display, more storage space, and a Blu-ray drive.
+2020-11-03 20:11:503 INFO  LoginLogoutPage:285 - Product NameMacBook air
+$700
+1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache Configurable to 2.2GHz dual-core Intel Core i7 (Turbo Boost up to 3.2GHz) with 4MB shared L3 cache.
+2020-11-03 20:11:552 INFO  LoginLogoutPage:285 - Product NameDell i7 8gb
+$700
+6th Generation Intel Core i7-6500U Dual-Core Processor 2.5 GHz (max boost speed up to 3.1GHz) 4MB L3 Cache, 8GB DDR4 1600 MHz, 1TB 5400 RPM HDD15.6 in Full HD LED-backlit touchscreen with Truelife (1920 x 1080), 10-finger multi-touch support, Intel HD Graphics 520 with shared graphics memory
+2020-11-03 20:11:765 INFO  LoginLogoutPage:292 - Within the Dell i7 8gb laptop detail page
+2020-11-03 20:11:768 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:810 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:945 INFO  LoginLogoutPage:302 - Dell i7 8gb laptop added into the cart
+2020-11-03 20:11:946 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:05 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:758 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:486 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:486 INFO  LoginLogoutPage:307 - Navigate to Shopping Cart
+2020-11-03 20:11:538 INFO  LoginLogoutPage:330 - No of cart items Count :2
+2020-11-03 20:11:642 INFO  LoginLogoutPage:343 - Dell Laptop deleted from the cart
+2020-11-03 20:11:645 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:697 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:740 INFO  LoginLogoutPage:401 - Expected Amount to be Paid: 790
+2020-11-03 20:11:846 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:433 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:290 INFO  LoginLogoutPage:417 - Order Details Id: 1679413
+Amount: 790 USD
+Card Number: 1234
+Name: Tom
+Date: 3/10/2020
+2020-11-03 20:11:290 INFO  LoginLogoutPage:421 - Order ID of the order placed :  1679413
+2020-11-03 20:11:292 INFO  LoginLogoutPage:422 - Amount Paid :  790 USD
+2020-11-03 20:11:292 INFO  LoginLogoutPage:425 - Amount Expected matches with the amount paid for the product
+2020-11-03 20:11:76 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-11-03 20:11:126 INFO  WaitHelper:24 - element is visible..
+2020-11-03 20:11:126 INFO  ServiceHooks:43 - Login into the application and purchase products is pass

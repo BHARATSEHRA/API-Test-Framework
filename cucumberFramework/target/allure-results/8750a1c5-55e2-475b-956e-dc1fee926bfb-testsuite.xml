@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1604414965870" stop="1604415060722" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>As a Demoblaze user I should be able to login and purchase products from the App</name>
+    <description type="text"></description>
+    <test-cases>
+        <test-case start="1604414965908" stop="1604415060717" status="passed">
+            <name>Login into the application and purchase products</name>
+            <title>Login into the application and purchase products</title>
+            <description type="text"></description>
+            <steps>
+                <step start="1604414972605" stop="1604414975476" status="passed">
+                    <name>Given I am on the Login page URL "https://www.demoblaze.com/index.html"</name>
+                    <title>Given I am on the Login page URL "https://www.demoblaze.com/index.html"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414975476" stop="1604414976232" status="passed">
+                    <name>Then I click on sign in button and wait for sign in page</name>
+                    <title>Then I click on sign in button and wait for sign in page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414976232" stop="1604414976258" status="passed">
+                    <name>Then I should see Sign In Page</name>
+                    <title>Then I should see Sign In Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414976258" stop="1604414978337" status="passed">
+                    <name>When I enter username as "Bharat"</name>
+                    <title>When I enter username as "Bharat"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414978337" stop="1604414980440" status="passed">
+                    <name>And I enter password as "15063660"</name>
+                    <title>And I enter password as "15063660"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414980440" stop="1604414982571" status="passed">
+                    <name>And click on login button</name>
+                    <title>And click on login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414982571" stop="1604414982621" status="passed">
+                    <name>Then I am logged in</name>
+                    <title>Then I am logged in</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414982622" stop="1604414986770" status="passed">
+                    <name>And I clear cart items if any</name>
+                    <title>And I clear cart items if any</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414986771" stop="1604414987274" status="passed">
+                    <name>Then I click home button from menu bar to continue shopping</name>
+                    <title>Then I click home button from menu bar to continue shopping</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604414987274" stop="1604415007706" status="passed">
+                    <name>Then I navigate to different product categories from left menu</name>
+                    <title>Then I navigate to different product categories from left menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415007706" stop="1604415024203" status="passed">
+                    <name>Then I choose laptop Sony vaio i5 and added to the cart</name>
+                    <title>Then I choose laptop Sony vaio i5 and added to the cart</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415024203" stop="1604415049486" status="passed">
+                    <name>Then I choose laptop Dell i7 8gb and added to the cart</name>
+                    <title>Then I choose laptop Dell i7 8gb and added to the cart</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415049488" stop="1604415052697" status="passed">
+                    <name>Then I opt to delete laptop Dell i7 8gb from the cart</name>
+                    <title>Then I opt to delete laptop Dell i7 8gb from the cart</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415052697" stop="1604415052740" status="passed">
+                    <name>Then I capture amount to be paid</name>
+                    <title>Then I capture amount to be paid</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415052740" stop="1604415053434" status="passed">
+                    <name>And click on place order button</name>
+                    <title>And click on place order button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415053435" stop="1604415056075" status="passed">
+                    <name>Then I enter Name as "Tom" and Country as "Denmark" and City as "xyza" and Card as "1234" and Month as "Nov" and Year as "2020"</name>
+                    <title>Then I enter Name as "Tom" and Country as "Denmark" and City as "xyza" and Card as "1234" and Month as "Nov" and Year as "2020"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415056075" stop="1604415058234" status="passed">
+                    <name>And I click on purchase order button</name>
+                    <title>And I click on purchase order button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415058234" stop="1604415058293" status="passed">
+                    <name>Then I capture Order details and verify with expected amount</name>
+                    <title>Then I capture Order details and verify with expected amount</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1604415058293" stop="1604415059126" status="passed">
+                    <name>And I Click on Ok button</name>
+                    <title>And I Click on Ok button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="attachment0" source="b7054048-f585-41ac-8f50-a6417c3b0255-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="Login into the application and purchase products"/>
+                <label name="feature" value="As a Demoblaze user I should be able to login and purchase products from the App"/>
+                <label name="host" value="bharat2799-02"/>
+                <label name="thread" value="16968@bharat2799-02.main(1)"/>
+                <label name="framework" value="CucumberJVM"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="feature" value="As a Demoblaze user I should be able to login and purchase products from the App"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
